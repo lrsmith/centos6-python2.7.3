@@ -1,0 +1,4 @@
+Based on Fedora SRPMS and patch from 
+https://thomas.apestaart.org/thomas/svn/jhbuild/python/python-2.7rc1-lib64.patch
+
+Tested on base Centos 6.2 system. Should install next to default Python 2.6 install
